@@ -18,3 +18,6 @@ URCE-CSE-SEM-NOTES/
 │   └── TIME TABLE.jpg
 ├── [Future Semesters...]
 └── R23-II-Year-Syllabus-CSE.pdf
+
+
+you can downlod files by clicking the download symbol some times it shows error but you can download it it show error also
